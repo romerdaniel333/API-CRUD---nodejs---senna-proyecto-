@@ -1,0 +1,21 @@
+{
+  "Registro_de_vehiculos": [
+    {
+      "id": 1,
+      "nombre": "Pablo Perez",
+      "Marca": "Honda",
+      "Año": "2001"
+    },
+    {
+      "id": 2,
+      "Marca": "Toyota",
+      "Año": 2007
+    },
+    {
+      "id": 4,
+      "Marca": "Tesla",
+      "Modelo": "S3",
+      "Año": "2023"
+    }
+  ]
+}
